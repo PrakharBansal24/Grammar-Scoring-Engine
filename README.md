@@ -50,7 +50,7 @@ if results_df is not None:
 
 ## 📊 Results
 
-The Grammar Scoring Engine provides detailed analysis including:
+The Grammar Scoring Engine provides detailed analysis, including:
 
 1. **Audio Waveform Visualization**
    
@@ -119,11 +119,5 @@ In the example above, the system:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For questions and support, please open an issue in the GitHub repository.
 
